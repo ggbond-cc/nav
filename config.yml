@@ -76,6 +76,7 @@ content:
           description: Emby
           url: http://192.168.20.175:8096
     - name: PT
+      sites:
         - name: m-team
           description: m-team
           url: https://kp.m-team.cc/
