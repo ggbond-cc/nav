@@ -43,6 +43,7 @@ content:
         - name: NASTool
           description: nastool
           url: http://192.168.20.175:13000/
+          icon: https://user-images.githubusercontent.com/51039935/197520391-f35db354-6071-4c12-86ea-fc450f04bc85.png
         - name: m-team
           description: m-team
           url: https://kp.m-team.cc/
@@ -53,7 +54,7 @@ content:
         - name: Emby
           description: Emby
           url: http://192.168.20.175:8096
-          icon: https://f.start.me/https://emby.media
+          icon: https://avatars.githubusercontent.com/u/3607473?s=200&v=4
         - name: dic-music
           description: dicmusic
           url: https://dicmusic.club  
@@ -62,28 +63,27 @@ content:
         - name: miWifi
           description: miWifi
           url: http://192.168.20.1
-          icon: https://f.start.me/https://miwifi.com
+          icon: https://f.start.me/https://www.mi.com
         - name: openWrt
           description: oepnWrt
           url: http://192.168.20.176
-          icon: https://f.start.me/https://openwrt.org
+          icon: https://avatars.githubusercontent.com/u/2528830?s=200&v=4
         - name: promox
           description: promox
           url: https://192.168.20.208:8006
-          icon: https://f.start.me/https://www.proxmox.com/en
+          icon: https://f.start.me/https://www.proxmox.com
         - name: openMediaVault
           description: openMediaVault
           url: http://192.168.20.175
           icon: https://f.start.me/https://www.openmediavault.org
         - name: qbittorent
           description: qbittorent
-          icon: https://f.start.me/https://www.qbittorrent.org
           url: http://192.168.20.175:9901
           icon: https://f.start.me/https://www.qbittorrent.org
         - name: Emby
           description: Emby
           url: http://192.168.20.175:8096
-          icon: https://f.start.me/https://emby.media
+          icon: https://avatars.githubusercontent.com/u/3607473?s=200&v=4
     - name: PT
       sites:
         - name: m-team
